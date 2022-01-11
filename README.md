@@ -55,8 +55,8 @@
 - [ ] Projeto — Jogo de Estoure a Bolha.
 - [ ] Projeto — Força de Senha.
 - [ ] Projeto — Clima em Tempo Real (Com API).
-- [ ] Drag e Drop.
-- [ ] Galeria de Fotos com Lightbox.
+- [ ] Projeto — Drag e Drop.
+- [ ] Projeto — Galeria de Fotos com Lightbox.
 - [ ] Projeto — Jogo da Velha.
 
 ## INFORMAÇÕES

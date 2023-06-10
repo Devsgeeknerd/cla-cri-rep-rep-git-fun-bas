@@ -1,77 +1,26 @@
-# JQUERY
+<!-- Título -->
+# Criando Repositórios
 
-***Aulas:***
+***Conteúdo da Aula:***
 
-- [ ] O que é jQuery?
-- [ ] Como o jQuery Funciona?
-- [ ] $ ou $().
-- [ ] $(document).ready().
-- [ ] Evitando Conflito.
-- [ ] Selecionando Elementos do HTML.
-- [ ] Manipulando Atributo de Tag.
-- [ ] O que Fazer Após a Seleção?
-- [ ] Manipulando Elementos.
-- [ ] Transformando Elementos em Objetos.
-- [ ] Navegando Entre Elementos.
-- [ ] CSS, Styling e Dimensões.
-- [ ] Guardando Dados em um Elemento.
-- [ ] Métodos do dia-a-dia.
-- [ ] FAQ — Como Saber se um Elemento Existe?
-- [ ] FAQ — Saber se Elemento tem uma Classe.
-- [ ] FAQ — Ativar e Desativar um Elemento de Form.
-- [ ] FAQ — Pegar Item Selecionado de SELECT.
-- [ ] FAQ — Alterar 3 o Elemento de Lista.
-- [ ] FAQ — Pegar Elemento Nativo.
-- [ ] O que é Evento?
-- [ ] Definindo Eventos em Elementos DOM.
-- [ ] Eventos Auxiliares.
-- [ ] Removendo Eventos.
-- [ ] Acionamento Falso de Eventos.
-- [ ] Propriedades Padrão do Evento.
-- [ ] Eventos de Browser.
-- [ ] Eventos de Formulário.
-- [ ] Eventos de Teclado.
-- [ ] O que são Efeitos?
-- [ ] Elemento Aparecer e Desaparecer.
-- [ ] Efeitos de Fade.
-- [ ] Efeitos de Deslizamento (Slide).
-- [ ] Animações — Como Usar o Animate.
-- [ ] Animações — Eventos no Animate.
-- [ ] FAQ — Como Parar uma Animação no Meio?
-- [ ] FAQ — Somar Propriedades na Animação.
-- [ ] O que é AJAX?
-- [ ] Conceitos Importantes de AJAX.
-- [ ] Monitorar Requisições AJAX.
-- [ ] Método Auxiliares de AJAX.
-- [ ] Método Serialize.
-- [ ] Requisições AJAX Completa.
-- [ ] Recebendo e Manipulando JSON.
-- [ ] O que são Plugins?
-- [ ] Como Usar um Plugin jQuery?
-- [ ] Projeto — Calculadora de IMC.
-- [ ] Projeto — Menu DropDown.
-- [ ] Projeto — Selecionador de Data.
-- [ ] Projeto — Menu Apple (Fisheye).
-- [ ] Projeto — Jogo de Estoure a Bolha.
-- [ ] Projeto — Força de Senha.
-- [ ] Projeto — Clima em Tempo Real (Com API).
-- [ ] Projeto — Drag e Drop.
-- [ ] Projeto — Galeria de Fotos com Lightbox.
-- [ ] Projeto — Jogo da Velha.
+Comandos usado na aula:
 
-## INFORMAÇÕES
+* git init;
+* git status.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.jquery-front-end-zp "Total de Visitas")
-&nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
-&nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/jquery-front-end-zp?style=social "Total de Observadores")
-&nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/jquery-front-end-zp?style=social "Total de Estrelas Recebidas")
-&nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/jquery-front-end-zp?style=social "Total de Forks")
-&nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/jquery-front-end-zp?style=social "Tamanho do Repositório")
-&nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/jquery-front-end-zp?style=social "Licença do Repositório")
+<!-- Informações -->
+## &#8505; Informações
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-cri-rep-rep-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-cri-rep-rep-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-cri-rep-rep-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+&nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-cri-rep-rep-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+&nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-cri-rep-rep-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+&nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-cri-rep-rep-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
